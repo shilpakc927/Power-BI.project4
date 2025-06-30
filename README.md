@@ -83,5 +83,7 @@ The goal of this dashboard is to provide a **360° view of chocolate product sal
 ## 📝 Author
 
 **Shilpa K C**  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
+
 Feel free to reach out for suggestions, improvements, or collaboration.
 
